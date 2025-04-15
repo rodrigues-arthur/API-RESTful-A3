@@ -1,4 +1,4 @@
-USAR NO TERMINAR QUANDO INICIAR 
+USAR NO TERMINAL QUANDO INICIAR 
 
 npm install express --save
 
